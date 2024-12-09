@@ -1,0 +1,4 @@
+SampleText.txt
+Length: 107 bytes
+Path: C:\Users\Djem Andreif Reyes\Documents\INTER. PROGRAMMING\SampleText.txt
+Words: 21
